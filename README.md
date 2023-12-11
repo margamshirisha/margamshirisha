@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @margamshirisha
+- 👋 Hi, I’m @ShirishaVoggu
 - 👀 I’m interested in javascript coding language
 - 🌱 I’m currently learning in NxtWave for Frontend Developer
 - 💞️ I’m looking to collaborate on 
